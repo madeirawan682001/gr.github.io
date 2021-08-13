@@ -1,0 +1,2 @@
+# grafikom
+tugas grafikom
